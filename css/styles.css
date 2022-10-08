@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+}
+
+.prioridad {
+    height: 100vh;
+    background-color: rgb(233, 218, 8);
+}
+.logo {
+    height: 300px;
+}
+
+.logo:hover {
+    background-color: dodgerblue;
+}
+
+.navegacion a, .navegacion p{
+    display: block;
+    text-align: center;
+    border-top: 1px solid black;
+    text-decoration: none;
+    color: black;
+    padding: 30px 0;
+
+}
+
+.ultima a{
+    border-bottom: 1px solid black;
+}
+
+.navegacion-redes a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+font-size: 40px;
+
+}
+
+.texto {
+
+    background-color: black;
+    width: 100%;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+   
+}
+
+.imagen1 {
+    background-color: black;
+   
+}
+
+.imagen2 {
+    width: 50%;
+    text-align: center;
+  
+    float: right;
+}
+
+.logoo {
+    
+    width: 50%;
+    float: left;
+
+}
